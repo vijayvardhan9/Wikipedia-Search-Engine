@@ -1,0 +1,25 @@
+5, t:presidential campaign b:obama i:2012
+20, b:sweden e:Pluxemburg
+10, String Quartet 14 Dvorak
+20, Mahendra Singh Dhoni
+10, b:rockstar e:rihanna
+10, t:Wroclaw Uniwersity i:Konigliche
+20, police chief association
+20, Adobe Acrobat
+10, t:Virgin Islands c:islands
+10, 25 December
+10, Pozzo di Borgo
+5, b:Prisoner of Azkaban i:2004
+10, t:American Airlines Flight b:crash
+10, Combat School
+10, t:Fuaamotu i:Nukualofa
+10, t:Sebastien Siani c:K.V. Oostende players i:Sebastien
+5, Blade Runner
+20, b:Prisoner of Azkaban i:1999
+3, b:V for Vendetta i:2006
+5, young's modulus
+10, b:Speed of light c:Concepts in physics
+20, b:angus e:tories i:James Lee
+30, b:Taxicab 1729
+50, b:Marc Spector i:Marvel Comics c:1980 comics debuts
+100, Sudebnik

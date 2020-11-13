@@ -1,0 +1,407 @@
+3101629, John McCain 2008 presidential campaign
+8693419, Barack Obama 2012 presidential campaign
+2626522, Mike Huckabee 2008 presidential campaign
+933366, Howard Dean 2004 presidential campaign
+9816733, Herman Cain 2012 presidential campaign
+6.390933178998239, 1.2781866357996479
+
+5968677, Pluxus
+6943144, Sweden
+917344, Outline of Sweden
+7547176, Sweden national football team
+9809550, Wikipedia:WikiProject Sweden/Article alerts/Archive
+1538420, Comparison of European road signs
+4472237, Finland-Sweden Athletics International
+7345373, Union between Sweden and Norway
+7017737, List of members of the Riksdag, 20022006
+5214090, Immigration to Sweden
+26294, History of Sweden
+9469762, Swedes
+7503768, List of roads in Ottawa
+17579, Foreign relations of Sweden
+7984267, List of members of the Riksdag, 20062010
+1136189, List of urban areas in Sweden
+6516760, Wikipedia:WikiProject Sweden
+4302612, Nordic countries
+5599153, List of members of the Riksdag, 19982002
+4101717, List of orienteers
+3.5576820490023238, 0.17788410245011618
+
+7115545, Fine Arts Quartet
+54810, Chamber music
+9782305, David Finckel
+7253788, Hollywood String Quartet
+6027889, Melos Quartet
+6411655, String Quartet No. 12 (Dvok)
+3333103, Pavel Haas Quartet
+7457889, Lindsay String Quartet
+6380469, List of compositions for cello and orchestra
+55228, Sonata form
+14.774646928999573, 1.4774646928999573
+
+9456705, Indian cricket team in England in 2011
+6257949, MS Dhoni
+4065467, International cricket in 200910
+3229850, Indian cricket team in Bangladesh in 2007
+571518, Second Test, 200708 BorderGavaskar Trophy
+5796388, International cricket in 201011
+3392033, International cricket in 200708
+4678823, English cricket team in India in 200506
+7981403, Indian cricket team in South Africa in 200607
+1406503, Indian cricket team in Sri Lanka in 2008
+4822557, Sri Lankan cricket team in India in 200506
+7450260, India national cricket team
+8592207, Indian cricket team in England in 2007
+8904221, 2011 Cricket World Cup Final
+3271852, Wikipedia:WikiProject India/Articles/Page3
+268104, Indian cricket team in Australia in 200708
+1269291, International cricket in 200809
+6560058, Indian Oil Cup 2005
+4916819, Indian cricket team in Pakistan in 200506
+2867515, Australian cricket team in 200708
+3.478774303002865, 0.17393871515014325
+
+2497538, Rihanna videography
+9680453, Loud Tour
+8250783, Good Girl Gone Bad
+1246791, Good Girl Gone Bad Live
+9299333, List of Rihanna live performances
+5330721, Hard (Rihanna song)
+4308600, Run This Town
+6116647, Rockstar San Diego
+4692585, Rihanna albums discography
+7462451, Rockstar North
+3.6415270669967867, 0.3641527066996787
+
+3960857, Wikipedia:WikiProject Spam/LinkReports/tsering.wroclaw.pl
+3522206, Margaret of Bohemia, Duchess of Wroclaw
+2775133, File:Wroclaw tiger.jpg
+3197781, File:Uniwersytet Przyrodniczy Wroclaw 02.jpg
+7549131, Duchy of Wroclaw
+9328704, Template:User Uni wroclaw
+7470431, Robert W. Wood
+7546717, Wroclaw Uniwersity of Technology
+292304, Bishop of Wroclaw
+292306, See of Wroclaw
+2.109945214004256, 0.21099452140042557
+
+3078148, List of law enforcement agencies in Pennsylvania
+5998806, Singapore Police Force
+3072453, List of law enforcement agencies in Michigan
+3078103, List of law enforcement agencies in Ohio
+318549, List of law enforcement agencies
+3072150, List of law enforcement agencies in California
+3344175, List of law enforcement agencies in British Columbia
+3072366, List of law enforcement agencies in Louisiana
+119979, Police brutality
+3072471, List of law enforcement agencies in Minnesota
+3078056, List of law enforcement agencies in New York (state)
+3072223, List of law enforcement agencies in Florida
+7416258, Law enforcement in the United Kingdom
+7377881, Military police
+3072139, List of law enforcement agencies in Arkansas
+3078067, List of law enforcement agencies in North Carolina
+3072439, List of law enforcement agencies in Massachusetts
+5016669, List of defunct law enforcement agencies in the United Kingdom
+5525617, Police of Republika Srpska
+3072326, List of law enforcement agencies in Kansas
+3.176582419000624, 0.1588291209500312
+
+7337318, Adobe Acrobat
+7425764, Adobe Creative Suite
+4773323, List of Adobe software
+15724, PDF
+4971372, Adobe LiveCycle Designer
+3110834, PostScript fonts
+6394692, Adobe Captivate
+2354199, Adobe eLearning Suite
+6552453, Adobe Connect
+4455441, Robert Slimbach
+1006, Adobe Inc.
+6687651, Adobe LiveCycle Reader Extensions
+4597342, List of PDF software
+5898940, XFA
+7567460, Adobe Atmosphere
+7153680, Adobe Distiller
+6549310, Extensible Metadata Platform
+7146247, Quick View
+9786561, Template:Latest stable software release/Adobe Acrobat
+9104532, Wikipedia:Files for upload/August 2010
+8.403994710999541, 0.420199735549977
+
+917380, Outline of the United States Virgin Islands
+915369, Outline of the British Virgin Islands
+20986, United States Virgin Islands
+2009, British Virgin Islands
+5938809, Saint John, U.S. Virgin Islands
+21228, Virgin Islands
+6601704, List of United States Virgin Islands highways
+7470753, Saint Thomas, U.S. Virgin Islands
+5875862, Music of the Virgin Islands
+6847583, Legislature of the Virgin Islands
+6.280329982000694, 0.6280329982000694
+
+4812015, Wikipedia:Reference desk/Archives/Science/December 2005
+9663052, Wikipedia:In the news/Candidates/December 2010
+8527338, Wikipedia:Categories for deletion/Archive debates/2006 December index
+4812011, Wikipedia:Reference desk/Archives/Humanities/December 2005
+2886155, Wikipedia:WikiProject Deletion sorting/Bands and musicians/archive
+395401, Wikipedia:Help desk/Archives/December 2007
+9664301, Wikipedia:Administrators' noticeboard/IncidentArchive654
+2172466, Wikipedia:Administrators' noticeboard/Archive178
+5743365, Wikipedia:Categories for discussion/Archive debates/2009 December index
+2886145, Wikipedia:WikiProject Deletion sorting/People/archive
+5.159527734998846, 0.5159527734998847
+
+7043990, List of Italian exonyms in Dalmatia
+7356835, Carlo Andrea Pozzo di Borgo
+1866641, Turin
+1745298, Index of Italy-related articles
+2592569, List of renamed places in Italy
+7357621, Bergamo
+4897799, Alata, Corse-du-Sud
+5252879, Alphabetical list of comunes of Italy
+138766, Napolon (1927 film)
+5432134, Odile Versois
+4.458283958003449, 0.4458283958003449
+
+7595410, Harry Potter and the Prisoner of Azkaban (film)
+7609341, Wikipedia:Upload log archive/June 2004 (1)
+4396735, Harry Potter
+7575373, Wikipedia:Upload log archive/February 2004 (1)
+8008998, Wikipedia:Deletion log/June 2004 (1)
+22.95747456499521, 4.591494912999042
+
+23623, American Airlines Flight 587
+7456864, American Airlines Flight 965
+6364383, American Airlines Flight 1
+1350996, American Airlines Flight 11
+7361786, American Airlines Flight 191
+7452574, American Airlines Flight 1420
+5152850, American Airlines Flight 28
+6726139, American Airlines Flight 383 (1965)
+6127816, American Airlines Flight 96
+963, American Airlines Flight 77
+10.407044325002062, 1.0407044325002062
+
+7268109, Reorganization plan of United States Army
+154363, List of United States Air Force communications squadrons
+7559510, Lockheed MC-130
+6961474, Hayate the Combat Butler
+1127995, List of MAJCOM wings of the United States Air Force
+6515222, Presidential Unit Citation (United States)
+7592210, Ace Combat
+1323802, United States Air Force Combat Control Team
+7521955, Combat Action Ribbon
+4799407, Al Farouq training camp
+2.2488996259999112, 0.2248899625999911
+
+6478983, Fuaamotu International Airport
+38258, Nukualofa
+19692, Tonga
+7442362, Tupou VI
+4807431, Jeffrey Vallance
+6033321, Cook Islands national football team
+1980767, Soviet UnionTonga relations
+5878230, Rob Elder
+7567677, George Tupou I
+846560, Tonga High School
+1.6056335200046306, 0.16056335200046307
+
+4701354, Sebastien Grainger
+908364, Sebastien (band)
+1727548, Sbastien Siani
+8650251, Liam Sebastien
+5357061, Sebastien De Maio
+7925377, Adnan ustovi
+2463022, B.C. Oostende
+3145016, Mike Siani
+6662096, Joseph Akpala
+4453158, K.V. Oostende
+9.188986260000092, 0.9188986260000093
+
+6350323, The Blade Runners
+6377588, Blade Runner (soundtrack)
+7397632, Sheffield United F.C.
+9809328, Wikipedia:WikiProject Comics/Article alerts/Archive
+6303363, Blade Runner 4: Eye and Talon
+18.529125526001735, 3.705825105200347
+
+7595410, Harry Potter and the Prisoner of Azkaban (film)
+7595546, Places in Harry Potter
+4396735, Harry Potter
+7366097, Harry Potter and the Prisoner of Azkaban
+7379961, Ministry of Magic
+8138526, Harry Potter (film series)
+8620715, Wikipedia:WikiProject Novels/Harry Potter task force/GF Differences
+6238952, Harry Potter and the Prisoner of Azkaban (video game)
+4861444, List of supporting Harry Potter characters
+2551586, Wikipedia:WikiProject Spam/LinkReports/awardannals.com
+4689222, Music of the Harry Potter films
+7656854, Magical objects in Harry Potter
+6934983, Lego Harry Potter
+6664178, 3rd Visual Effects Society Awards
+6300579, Fremantle Prison
+7595889, List of prisons
+3508922, Genevieve Gaunt
+7314006, Harry Potter and the Prisoner of Azkaban (soundtrack)
+5421137, Wikipedia:WikiProject Correction and Detention Facilities/Popular pages
+6726844, Guantanamo Bay detention camp
+9.153140158996393, 0.45765700794981967
+
+48601, V for Vendetta
+21553, The Wachowskis
+122963, Hugo Weaving
+13.301478804998624, 4.433826268332875
+
+114911, Composite material
+34149, Thomas Young (scientist)
+1948, Beryllium
+5893, Einsteinium
+2152, Boron
+6.705669312999817, 1.3411338625999634
+
+18789, Speed of light
+6304309, History of special relativity
+18807, Spacetime
+7252032, History of electromagnetic theory
+17626, Special relativity
+7193, Faster-than-light
+6544349, Lorentz ether theory
+19575, Time
+45031, A Brief History of Time
+11867, Luminiferous aether
+16.10745095099992, 1.610745095099992
+
+29200, Whigs (British political party)
+7534828, John Tory
+6237017, Appomattox campaign
+20209, Tory
+6347271, James Wan
+8618098, William Douglas, 2nd Earl of Angus
+3198017, List of Primeval characters
+51306, Siege of Petersburg
+5124248, 2010 Tampa Bay Rays season
+2850, Battle of Gettysburg
+4711771, Monifieth
+4774761, Liff, Angus
+32882, James Longstreet
+7709760, Barclay James Harvest
+4813495, Scotland national rugby sevens team
+32524, Battle of Cold Harbor
+5985324, Archibald Douglas, 5th Earl of Angus
+8376605, Tori Amos discography
+9489914, 2011 St Helens RLFC season
+6916506, Armageddon (convention)
+5.306557263997092, 0.26532786319985463
+
+7511244, Taxicab number
+7510919, 1729 (number)
+7075828, Wikipedia:Evaluating how interesting an integer's mathematical property is
+7601749, Generalized taxicab number
+7471216, 1000 (number)
+31779, Srinivasa Ramanujan
+7197716, Taxicabs by country
+7869754, Taxicabs of the United States
+3747619, Taxicab
+2831356, Gilles Hocquart
+6449643, Taxicabs of New York City
+5927810, Checker Motors Corporation
+7416160, List of number theory topics
+7507432, Interesting number paradox
+4885256, List of Acts of the Parliament of Great Britain, 17201739
+4643090, 4104 (number)
+7461270, Wikipedia:WikiProject Numbers
+4130074, Taxis in India
+2474367, List of cantatas by Christoph Graupner
+7917039, Taxicabs of the United Kingdom
+9545445, Hawaii Five-O (1968 TV series, season 2)
+7349748, Euler pseudoprime
+8053364, Taxicabs of Mexico
+30633, Fermat pseudoprime
+9364745, Hawaii Five-O (1968 TV series, season 1)
+3225095, Bach cantata
+450281, Illegal taxicab operation
+6441504, List of Austin motor vehicles
+5924398, List of executioners
+67900, EulerJacobi pseudoprime
+3.678589279996231, 0.12261964266654105
+
+7474062, Luke Cage
+6109604, Cobra (Marvel Comics)
+5879193, Man-Thing
+6912188, Hercules (Marvel Comics)
+7447867, Captain Marvel (DC Comics)
+4556166, Spider-Woman (Jessica Drew)
+103810, Daily Bugle
+1688260, Norman Osborn
+7639460, List of deities in Marvel Comics
+7391362, Brotherhood of Mutants
+6206647, Advanced Idea Mechanics
+7519884, Mister Sinister
+7618318, Mary Marvel
+8310, Galactus
+7696840, Bullseye (character)
+109838, Doctor Strange
+6897217, Whiplash (Marvel Comics)
+7616438, Ultron
+4502625, Black Knight (Dane Whitman)
+8399027, Captain Marvel Jr.
+7498544, British comics
+22089, X-Men
+31612, Doctor Doom
+6029877, Anaconda (comics)
+7395164, Sabretooth (comics)
+20559, Hulk
+7390494, Wolverine (character)
+7593271, Black Cat (Marvel Comics)
+7353872, Gambit (comics)
+7398116, Doctor Octopus
+7451970, Timely Comics
+7544710, Iron Fist (comics)
+3281375, Carol Danvers
+9883, Iceman (Marvel Comics)
+7597582, Skrull
+50178, Thing (comics)
+6109602, Black Mamba (comics)
+7724590, Nova (Richard Rider)
+13595, Marvel Comics
+8950907, Silver Surfer
+7396803, Vulture (Marvel Comics)
+6282414, Cletus Kasady
+1572377, List of Marvel Comics characters: B
+3091471, Daken
+6458696, Blizzard (comics)
+6524596, Jack O'Lantern (Marvel Comics)
+7463610, Hank Pym
+7612582, Thanos
+1572402, List of Marvel Comics characters: G
+117720, Rogue (Marvel Comics)
+11.019383933002246, 0.2203876786600449
+
+5883485, Sudebnik of 1497
+8575226, Sudebnik of 1550
+5011686, Sobornoye Ulozheniye
+6168814, Serfdom in Russia
+7637078, Russkaya Pravda
+108578, Ivan III of Russia
+67566, List of Russian people
+3559774, Forbidden years
+6218693, Timeline of Russian history
+6582637, Pskov Judicial Charter
+9201206, Sudebnik of Kazimir
+9338572, List of Russian scientists
+26090, 1497
+47267, Ivan the Terrible
+412273, Novgorod Judicial Charter
+3037975, Wikipedia:WikiProject Russia/New article announcements/January 2007
+5380073, William E. Butler
+5919872, Vasily Tatishchev
+6753036, George's Day in Autumn
+7390454, Pskov
+7519846, Law of Russia
+7894907, Capital punishment in Russia
+8008211, List of Belarus-related topics
+9435198, List of Russian historians
+1.4633272249993752, 0.014633272249993752
+
